@@ -1,0 +1,46 @@
+<doctype html />
+<style>
+#content {
+	display: table;
+}
+
+	#mainContent {
+		display: table-cell;
+		width: 620px;
+		padding-right: 22px;
+		border: thick;
+	}
+
+	aside {
+		display: table-cell;
+		width: 300px;
+		border: groove;
+	}
+
+</style>
+
+<div id="content">
+	<div id="mainContent">
+		<section>
+			<!-- Blog post -->
+<p>Blog post</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
+		</section>
+		<section id="comments">
+			<!-- Comments -->
+<p>Comments</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
+		</section>
+		<form>
+			<!-- Comment form -->
+<p>Comment form</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
+		</form>
+	</div>
+	<aside>
+		<!-- Sidebar -->
+<p>Sidebar</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>
+	</aside>
+</div>
+

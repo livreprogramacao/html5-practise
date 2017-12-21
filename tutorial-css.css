@@ -1,0 +1,12 @@
+body {
+  background: #fff url(../images/bg-body.gif) top no-repeat;
+  margin: 0;
+  padding: 0;
+}
+
+#headerwrapper {
+  background: #ecf3f9;
+  width: 100%;
+  height: 191px;
+  position: relative;	
+}
